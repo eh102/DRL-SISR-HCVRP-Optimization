@@ -8,4 +8,4 @@ Solving Heterogeneous Capacitated Vehicle Routing Problem (HCVRP) using a hybrid
 ## Tool
 Language: Python
 
-Frameworks: PyTorch, NumPy, Pandas, OpenAI Gym
+Frameworks: PyTorch, NumPy, Pandas
