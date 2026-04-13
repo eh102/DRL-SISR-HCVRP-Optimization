@@ -64,7 +64,7 @@ The core idea is to replace the random or heuristic decision steps inside SISR w
 - **SISR** iteratively removes strings of nodes from routes and reinserts them to escape local optima.
 - **DRL agent** (CNN-based) observes the current solution state and outputs an action to guide the ruin/recreate process.
 - **DRL-SNS**: DRL intervenes only at seed node selection — minimal overhead, easy to integrate.
-- **DRL-Full**: DRL participates in more decision steps — stronger guidance, higher optimization potential.
+- **DRL-RR**: DRL participates in more decision steps — stronger guidance, higher optimization potential.
 
 ---
 
