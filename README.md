@@ -84,3 +84,15 @@ The core idea is to replace the random or heuristic decision steps inside SISR w
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+## Citation
+ 
+ 
+```
+@mastersthesis{chen2025hcvrp,
+  author  = {Yi-Hao Chen},
+  title   = {A Study on Solving the Heterogeneous Capacitated Vehicle Routing Problem with Deep Reinforcement Learning},
+  school  = {National Taichung University of Education},
+  year    = {2025}
+}
+``
