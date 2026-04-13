@@ -48,8 +48,8 @@ DRL-SISR-HCVRP-Optimization/
 ├── tester_hcvrp.py          # Outputs the iteration process of hcvrp_solver.py
 ├── drl_sns_train.py         # Train: DRL-SNS method (DRL selects seed node)
 ├── drl_sns_eval.py          # Evaluate: DRL-SNS method
-├── sisr_drl_full_train.py   # Train: DRL-Full method (DRL guides more decisions)
-├── sisr_drl_full_eval.py    # Evaluate: DRL-Full method
+├── drl_rr_train.py   # Train: DRL-Full method (DRL guides more decisions)
+├── drl_rr_eval.py    # Evaluate: DRL-Full method
 └── images/
     └── DRL_Guiding_process.png
 ```
