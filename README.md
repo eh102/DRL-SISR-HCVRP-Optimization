@@ -74,9 +74,8 @@ The core idea is to replace the random or heuristic decision steps inside SISR w
 |----------|-------|
 | Language | Python 3.7 |
 | Deep Learning | PyTorch 1.13, CUDA 11.6 |
-| Scientific Computing | NumPy, SciPy, scikit-learn |
+| Scientific Computing | NumPy, SciPy |
 | Visualization | Matplotlib, TensorBoard |
-| Simulation | SimPy |
 
 ---
 
