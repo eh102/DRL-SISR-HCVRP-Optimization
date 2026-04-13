@@ -28,7 +28,6 @@ This project uses **Conda** for environment management. All dependencies (PyTorc
 ```bash
 # Clone the repository
 git clone https://github.com/eh102/DRL-SISR-HCVRP-Optimization.git
-cd DRL-SISR-HCVRP-Optimization
 
 # Create and activate the Conda environment
 conda env create -f hcvrp.yaml
